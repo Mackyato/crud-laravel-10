@@ -1,4 +1,4 @@
-## crud-laravel-10
+# crud-laravel-10
  A simple crud application with all the basic features you have to know.
 
 ## Features
